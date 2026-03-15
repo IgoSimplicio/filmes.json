@@ -20,12 +20,12 @@
     },
     {
       "id": 3,
-      "titulo": "Matrix",
-      "ano": "1999",
-      "duracao": "2h 16min",
-      "capa": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_.jpg",
-      "resumo": "Um jovem programador é atormentado por estranhos pesadelos nos quais está sempre conectado por cabos a um imenso sistema de computadores. Quando é procurado pelos misteriosos Morpheus e Trinity, ele descobre que é vítima de um sistema de simulação virtual chamado Matrix.",
-      "stremLink": "https://vizer.tv/watch/matrix"
+      "titulo": "Cartoon Gospel - Desenhos",
+      "ano": "Live",
+      "duracao": "Ao Vivo",
+      "capa": "https://cloudfront-us-east-1.images.arcpublishing.com/newr7/TLEPXWBDH5JSLMWZEVU5WE7G7E.jpg",
+      "resumo": "aprendendo ensinamentos para toda a vida e muitas lições com os Desenhos Bíblicos.",
+      "stremLink": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8"
     }
   ]
 }
