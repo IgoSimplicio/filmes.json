@@ -26,6 +26,15 @@
       "capa": "https://cloudfront-us-east-1.images.arcpublishing.com/newr7/TLEPXWBDH5JSLMWZEVU5WE7G7E.jpg",
       "resumo": "aprendendo ensinamentos para toda a vida e muitas lições com os Desenhos Bíblicos.",
       "stremLink": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8"
+    },
+    {
+      "id": 4,
+      "titulo": "AW TV ao vivo",
+      "ano": "Live",
+      "duracao": "ao vivo",
+      "capa": "https://awtv.com.br/wp-content/uploads/2025/05/logoawtv.jpg",
+      "resumo": "Reviva emoções com séries e conteúdos nostálgicos",
+      "stremLink": "https://awtv.nuvemplay.live/hls/stream.m3u8"
     }
   ]
 }
