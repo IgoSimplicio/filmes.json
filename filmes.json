@@ -1,0 +1,13 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Interestelar",
+      "ano": "2014",
+      "duracao": "2h 49min",
+      "capa": "https://m.media-amazon.com/images/I/71NmySJZ+aL._AC_SY879_.jpg",
+      "resumo": "As reservas naturais da Terra estão chegando ao fim...",
+      "stremLink": "https://vizer.tv/watch/interestelar"
+    }
+  ]
+}
