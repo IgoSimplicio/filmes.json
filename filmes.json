@@ -6,8 +6,26 @@
       "ano": "2014",
       "duracao": "2h 49min",
       "capa": "https://m.media-amazon.com/images/I/71NmySJZ+aL._AC_SY879_.jpg",
-      "resumo": "As reservas naturais da Terra estão chegando ao fim...",
+      "resumo": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e um robô, eles seguirão em busca de um novo lar.",
       "stremLink": "https://vizer.tv/watch/interestelar"
+    },
+    {
+      "id": 2,
+      "titulo": "O Poderoso Chefão",
+      "ano": "1972",
+      "duracao": "2h 55min",
+      "capa": "https://m.media-amazon.com/images/I/41+iNpm5XbL._AC_.jpg",
+      "resumo": "Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios.",
+      "stremLink": "https://vizer.tv/watch/o-poderoso-chefao"
+    },
+    {
+      "id": 3,
+      "titulo": "Matrix",
+      "ano": "1999",
+      "duracao": "2h 16min",
+      "capa": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_.jpg",
+      "resumo": "Um jovem programador é atormentado por estranhos pesadelos nos quais está sempre conectado por cabos a um imenso sistema de computadores. Quando é procurado pelos misteriosos Morpheus e Trinity, ele descobre que é vítima de um sistema de simulação virtual chamado Matrix.",
+      "stremLink": "https://vizer.tv/watch/matrix"
     }
   ]
 }
