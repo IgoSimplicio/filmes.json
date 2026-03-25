@@ -2,15 +2,6 @@
   "filmes": [
     {
       "id": 1,
-      "titulo": "Pânico 7",
-      "ano": "2026",
-      "duracao": "1h 54m",
-      "capa": "https://paramountpictures.com.br/images/movies/3r9o8r8o7f8cover-5158517f2d7cd1ce0448202d5184d366.jpg",
-      "resumo": "Quando um novo Ghostface surge na pacata cidade onde Sidney Prescott reconstruiu sua vida, seus medos mais sombrios se tornam reais enquanto sua filha se torna o próximo alvo do assassino. Determinada a proteger sua família, Sidney terá que enfrentar os horrores do seu passado para acabar com o massacre de uma vez por todas.",
-      "stremLink": "https://v01.watchplayer.shop/_s3_/v05/1159559/playlist.m3u8"
-    },
-    {
-      "id": 2,
       "titulo": "Zootopia 2",
       "ano": "2025",
       "duracao": "1h 47min",
@@ -19,7 +10,7 @@
       "stremLink": "https://v01.watchplayer.shop/_s3_/v05/1084242/playlist.m3u8"
     },
     {
-      "id": 3,
+      "id": 2,
       "titulo": "Cartoon Gospel - Desenhos",
       "ano": "Live",
       "duracao": "Ao Vivo",
@@ -28,7 +19,7 @@
       "stremLink": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8"
     },
     {
-      "id": 4,
+      "id": 3,
       "titulo": "AW TV ao vivo",
       "ano": "Live",
       "duracao": "ao vivo",
@@ -37,7 +28,7 @@
       "stremLink": "https://awtv.nuvemplay.live/hls/stream.m3u8"
     },
     {
-      "id": 5,
+      "id": 4,
       "titulo": "Sonic 3 - O Filme",
       "ano": "2024",
       "duracao": "1 h 45 min",
