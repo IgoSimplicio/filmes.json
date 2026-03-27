@@ -44,6 +44,15 @@
       "capa": "https://melhorescolha.com/blog/wp-content/uploads/2019/07/discovery-kids-play-assistir.jpg",
       "resumo": "O Discovery Kids é o canal pioneiro em programação infantil da América Latina, com conteúdo dedicado 24 horas por dia às crianças pequenas.",
       "stremLink": "https://redecanaistv.ooo/player3/ch.php?canal=discoverykids"
+    },
+    {
+      "id": 6,
+      "titulo": "TV Globo RJ",
+      "ano": "Live",
+      "duracao": "Ao vivo",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnq_UaH0DT8XuozcU6FcEYqQP8IkeIcCe35Q&s",
+      "resumo": "TV Globo Rio de Janeiro é uma emissora de televisão brasileira sediada no Rio de Janeiro, capital do estado homônimo.",
+      "stremLink": "https://redecanaistv.ooo/player3/ch.php?canal=boborj"
     }
   ]
 }
